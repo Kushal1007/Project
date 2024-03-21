@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/Project/static/css/main.59c79fd8.css",
+    "main.js": "/Project/static/js/main.ace4090b.js",
+    "static/media/member8.jpg": "/Project/static/media/member8.916ed5ba91f42c9dae74.jpg",
+    "static/media/error.4b5472f1.gif": "/Project/static/media/error.4b5472f1.4b5472f14025469a16d7.gif",
+    "static/media/piyush.png": "/Project/static/media/piyush.beba6cee14aa9b08f51e.png",
+    "static/media/img1.815eb17a.jpg": "/Project/static/media/img1.815eb17a.815eb17ad747be75950d.jpg",
+    "static/media/member9.jpg": "/Project/static/media/member9.4ad7fc8ecbc70ff1ee90.jpg",
+    "static/media/footer.d025f458.jpg": "/Project/static/media/footer.d025f458.d025f458ac691ab6e8fa.jpg",
+    "static/media/member6.be2a77ad.jpg": "/Project/static/media/member6.be2a77ad.be2a77adde3dc48f9d5b.jpg",
+    "static/media/member4.9045579a.jpg": "/Project/static/media/member4.9045579a.9045579a47c3fd89b17c.jpg",
+    "static/media/mobile.f82d7322.png": "/Project/static/media/mobile.f82d7322.f82d73222992d2101a09.png",
+    "static/media/member1.22ac1d59.jpg": "/Project/static/media/member1.22ac1d59.22ac1d594f69ddaf3e08.jpg",
+    "static/media/member2.d03a0686.jpg": "/Project/static/media/member2.d03a0686.d03a0686030bcd2f05ec.jpg",
+    "static/media/pic-2.0593bc2f.jpg": "/Project/static/media/pic-2.0593bc2f.0593bc2fd8a13cf8c19f.jpg",
+    "static/media/member7.jpg": "/Project/static/media/member7.3d7276bf3249e8e7a8dd.jpg",
+    "static/media/member3.0d822ecc.jpg": "/Project/static/media/member3.0d822ecc.0d822ecc51b2532abe0e.jpg",
+    "static/media/member5.24eb1821.jpg": "/Project/static/media/member5.24eb1821.24eb182159ea2d58610f.jpg",
+    "static/media/pic-1.ad1ed7ee.jpg": "/Project/static/media/pic-1.ad1ed7ee.ad1ed7ee8284087fe9ee.jpg",
+    "static/media/doctor.webp": "/Project/static/media/doctor.1546dabfd508d9621051.webp",
+    "static/media/pic-3.fa689b10.jpg": "/Project/static/media/pic-3.fa689b10.fa689b1037dbf69567a3.jpg",
+    "static/media/rajendra.jpg": "/Project/static/media/rajendra.39cdfbf01a267c49d57a.jpg",
+    "static/media/salman.jpg": "/Project/static/media/salman.428483bdfaa55c2881a9.jpg",
+    "static/media/bg1.c53c8971.jpg": "/Project/static/media/bg1.c53c8971.c53c8971d16c9a1033ae.jpg",
+    "static/media/women.eb5c49c5.png": "/Project/static/media/women.eb5c49c5.eb5c49c523f7d6240d33.png",
+    "static/media/shape1.1112f1ac.png": "/Project/static/media/shape1.1112f1ac.1112f1ac0dc18e511a91.png",
+    "static/media/slick.svg": "/Project/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/Project/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/Project/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/Project/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/Project/index.html",
+    "main.59c79fd8.css.map": "/Project/static/css/main.59c79fd8.css.map",
+    "main.ace4090b.js.map": "/Project/static/js/main.ace4090b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.59c79fd8.css",
+    "static/js/main.ace4090b.js"
+  ]
+}
